@@ -6,7 +6,7 @@
 
 Proffy é uma plataforma online de estudos.
 
-Este projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**#2, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
+Este projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)#2**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
 
 ## 🚀 Tecnologias
 
